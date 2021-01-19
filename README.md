@@ -19,7 +19,7 @@
 
 
 
-IDE : Eclips
+IDE : Eclipse
 
 
 
